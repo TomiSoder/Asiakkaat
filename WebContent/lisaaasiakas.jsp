@@ -38,8 +38,9 @@
 			</tbody>
 		</table>
 	</form>
-</body>
 <span id="ilmo"></span>
+</body>
+
 <script>
 	$(document).ready(function() {
 
